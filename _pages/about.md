@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-# 
-创建此博客的目的是学习计算机知识。
+# 创建此博客的目的是学习计算机知识。
 日志位于archive。
 如有任何问题请致电：peiwenshuai@outlook.com并表明来意。
 
